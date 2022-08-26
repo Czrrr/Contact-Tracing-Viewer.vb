@@ -1,0 +1,13 @@
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\bin\Debug\ContactTracingViewer.exe.config
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\bin\Debug\ContactTracingViewer.exe
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\bin\Debug\ContactTracingViewer.pdb
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\bin\Debug\ContactTracingViewer.xml
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.vbproj.AssemblyReference.cache
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.Form1.resources
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.Resources.resources
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.vbproj.GenerateResource.cache
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.vbproj.CoreCompileInputs.cache
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.exe
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.xml
+C:\Users\Czr\source\repos\CZR-contacttracing\Contact Tracing Viewer\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.pdb

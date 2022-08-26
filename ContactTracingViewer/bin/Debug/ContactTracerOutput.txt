@@ -1,0 +1,70 @@
+﻿FullName: CZr
+Age: 21
+Address: mama mo 
+Contact Number: 123334
+Gender: 
+Gender: Female
+
+
+****************************
+FullName: fsdfsdf 
+Age:  sdfsdfs
+Address: sdfsdfsd
+Contact Number: sdfsdfsdf
+Gender: Male
+
+
+****************************
+FullName: Czr Correo
+Age: 21
+Address: Fairview, Quezon City
+Contact Number: 09609426019
+Gender: Female
+
+
+****************************
+FullName: kitts
+Age: 23
+Address: manila
+Contact Number: 12344523452345
+Gender: Male
+
+
+****************************
+FullName: kitts
+Age: 23
+Address: manila
+Contact Number: 12344523452345
+Gender: Male
+
+
+****************************
+FullName: gill
+Age: 21
+Address: caloocan 
+Contact Number: 09345234
+Gender: Female
+
+
+****************************
+FullName: gill
+Age: 21
+Address: caloocan 
+Contact Number: 09345234
+Gender: Female
+
+
+****************************
+FullName: romwil
+Age: 23
+Address: Pandacan 
+Contact Number: 0945833989
+Gender: Male
+
+
+****************************
+FullName: syd
+Age: 24
+Address: Quezon City
+Contact Number: 092498729384
+Gender: Male
